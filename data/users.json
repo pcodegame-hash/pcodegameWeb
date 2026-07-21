@@ -1,0 +1,262 @@
+[
+  {
+    "_id": "2ffaf9f5-3316-4e3e-ae30-2b2fed062d89",
+    "username": "tester01",
+    "email": "tester01@example.com",
+    "password": "$2b$10$tuCBJ8OoKl.wULagCrLVMeaF1F3vjEiVBEhsmAjrmi1stc//emBmy",
+    "xp": 0,
+    "streak": 0,
+    "tier": "NEWB",
+    "currentChapter": "fundamentals",
+    "levelsCompleted": 0,
+    "chapterProgress": {
+      "fundamentals": {
+        "xp": 0,
+        "levels": 0
+      },
+      "loops": {
+        "xp": 0,
+        "levels": 0
+      },
+      "arrays": {
+        "xp": 0,
+        "levels": 0
+      },
+      "functions": {
+        "xp": 0,
+        "levels": 0
+      },
+      "controlFlow": {
+        "xp": 0,
+        "levels": 0
+      }
+    },
+    "createdAt": "2026-07-20T07:23:17.025Z",
+    "updatedAt": "2026-07-20T07:23:17.025Z"
+  },
+  {
+    "_id": "1f444c00-8fcd-4030-8fa3-3768022f8526",
+    "username": "Blackopabd",
+    "email": "abdullah@gmail.com",
+    "password": "$2b$10$eimofztreqkrqqohoLhZueo8WqOA.QsBfqSH7DiMn1R7TrTcsM2o.",
+    "xp": 0,
+    "streak": 0,
+    "tier": "NEWB",
+    "currentChapter": "fundamentals",
+    "levelsCompleted": 0,
+    "chapterProgress": {
+      "fundamentals": {
+        "xp": 0,
+        "levels": 0
+      },
+      "loops": {
+        "xp": 0,
+        "levels": 0
+      },
+      "arrays": {
+        "xp": 0,
+        "levels": 0
+      },
+      "functions": {
+        "xp": 0,
+        "levels": 0
+      },
+      "controlFlow": {
+        "xp": 0,
+        "levels": 0
+      }
+    },
+    "createdAt": "2026-07-20T07:35:07.811Z",
+    "updatedAt": "2026-07-20T07:35:07.811Z"
+  },
+  {
+    "_id": "7bacca59-a021-47ed-8875-49f098a43a0f",
+    "username": "12312",
+    "email": "lfamsfklanmslkfnasl@gmail.com",
+    "password": "$2b$10$6yF/fBQsoc.ZOfP5YBhfG.XfKJPfioZI4sL1TZdYUnVOglIeDwXYC",
+    "xp": 0,
+    "streak": 0,
+    "tier": "NEWB",
+    "currentChapter": "fundamentals",
+    "levelsCompleted": 0,
+    "chapterProgress": {
+      "fundamentals": {
+        "xp": 0,
+        "levels": 0
+      },
+      "loops": {
+        "xp": 0,
+        "levels": 0
+      },
+      "arrays": {
+        "xp": 0,
+        "levels": 0
+      },
+      "functions": {
+        "xp": 0,
+        "levels": 0
+      },
+      "controlFlow": {
+        "xp": 0,
+        "levels": 0
+      }
+    },
+    "verified": false,
+    "verificationToken": "cd8097fbdac8ab4e7c9825668d8f21412e04ac51cdbf3c0f",
+    "verificationTokenExpires": "2026-07-22T00:49:17.429Z",
+    "createdAt": "2026-07-21T00:49:17.433Z",
+    "updatedAt": "2026-07-21T00:49:17.433Z"
+  },
+  {
+    "_id": "8b9886e7-908e-4749-8af6-66c4e4a45bb2",
+    "username": "aridslugurine",
+    "email": "aridslugurine@gmail.com",
+    "password": "$2b$10$HwWdWMBm.mJD7n3cCvud3O8UAA8yQZaxF8SrfNm0/EaVe4O/sDsXi",
+    "xp": 0,
+    "streak": 0,
+    "tier": "NEWB",
+    "currentChapter": "fundamentals",
+    "levelsCompleted": 0,
+    "chapterProgress": {
+      "fundamentals": {
+        "xp": 0,
+        "levels": 0
+      },
+      "loops": {
+        "xp": 0,
+        "levels": 0
+      },
+      "arrays": {
+        "xp": 0,
+        "levels": 0
+      },
+      "functions": {
+        "xp": 0,
+        "levels": 0
+      },
+      "controlFlow": {
+        "xp": 0,
+        "levels": 0
+      }
+    },
+    "verified": false,
+    "verificationToken": "fd60d008ad6d3f0a38a7d1fdfa5350fc234ad2dc29a1fd0f",
+    "verificationTokenExpires": "2026-07-22T00:49:45.782Z",
+    "createdAt": "2026-07-21T00:49:45.784Z",
+    "updatedAt": "2026-07-21T00:49:45.784Z"
+  },
+  {
+    "_id": "be3a8f34-a770-44e7-9914-9ba38afd88b2",
+    "username": "d",
+    "email": "pcodegame@gmail.com",
+    "password": "$2b$10$Qj6Tuh4iQySDsoX3eCEo9.i3KEtr2TlFVVW.CySQ7.9XROsv68Hmy",
+    "xp": 0,
+    "streak": 0,
+    "tier": "NEWB",
+    "currentChapter": "fundamentals",
+    "levelsCompleted": 0,
+    "chapterProgress": {
+      "fundamentals": {
+        "xp": 0,
+        "levels": 0
+      },
+      "loops": {
+        "xp": 0,
+        "levels": 0
+      },
+      "arrays": {
+        "xp": 0,
+        "levels": 0
+      },
+      "functions": {
+        "xp": 0,
+        "levels": 0
+      },
+      "controlFlow": {
+        "xp": 0,
+        "levels": 0
+      }
+    },
+    "verified": false,
+    "verificationToken": "796bb8d6939bcf196ee227a2fdd87ac9bc11b92ea2fcb57c",
+    "verificationTokenExpires": "2026-07-22T01:06:49.896Z",
+    "createdAt": "2026-07-21T01:06:49.899Z",
+    "updatedAt": "2026-07-21T01:06:49.899Z"
+  },
+  {
+    "_id": "c882e912-778e-417e-9438-5d7a9abeb520",
+    "username": "abd",
+    "email": "abdullah2025b@gmail.com",
+    "password": "$2b$10$nRe025aPI6Kjonw6ocZFP.ijEcbdqG43xysxZCYl.ldPdpP8izTg2",
+    "xp": 0,
+    "streak": 0,
+    "tier": "NEWB",
+    "currentChapter": "fundamentals",
+    "levelsCompleted": 0,
+    "chapterProgress": {
+      "fundamentals": {
+        "xp": 0,
+        "levels": 0
+      },
+      "loops": {
+        "xp": 0,
+        "levels": 0
+      },
+      "arrays": {
+        "xp": 0,
+        "levels": 0
+      },
+      "functions": {
+        "xp": 0,
+        "levels": 0
+      },
+      "controlFlow": {
+        "xp": 0,
+        "levels": 0
+      }
+    },
+    "verified": false,
+    "verificationToken": "aa1803a4401bed8efc187e61f0c51e0a8bdc08b59e604f56",
+    "verificationTokenExpires": "2026-07-22T01:12:17.013Z",
+    "createdAt": "2026-07-21T01:12:17.015Z",
+    "updatedAt": "2026-07-21T01:12:17.015Z"
+  },
+  {
+    "_id": "92b3df4e-4ca7-454a-8edc-75547eb04243",
+    "username": "user_1784601329058",
+    "email": "test-1784601329058@example.com",
+    "password": "hashedpassword123",
+    "verified": false,
+    "verificationToken": "a9f5db8fc1037e0b2de045629299debc544a1bdb",
+    "verificationTokenExpires": "2026-07-22T02:35:29.089Z",
+    "xp": 0,
+    "streak": 0,
+    "tier": "NEWB",
+    "currentChapter": "fundamentals",
+    "levelsCompleted": 0,
+    "chapterProgress": {
+      "fundamentals": {
+        "xp": 0,
+        "levels": 0
+      },
+      "loops": {
+        "xp": 0,
+        "levels": 0
+      },
+      "arrays": {
+        "xp": 0,
+        "levels": 0
+      },
+      "functions": {
+        "xp": 0,
+        "levels": 0
+      },
+      "controlFlow": {
+        "xp": 0,
+        "levels": 0
+      }
+    },
+    "createdAt": "2026-07-21T02:35:29.066Z",
+    "updatedAt": "2026-07-21T02:35:29.092Z"
+  }
+]
