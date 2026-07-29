@@ -4,7 +4,6 @@ dotenv.config();
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import rateLimit from "express-rate-limit";
 
 import authRoutes from "./routes/authRoutes.js";
 import leaderboardRoutes from "./routes/leaderboardRoutes.js";
@@ -24,20 +23,7 @@ app.use(cors({
 }));
 app.use(express.json());
 
-const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000,
-  max: 100, 
-  message: "Too many requests from this IP, please try again after 15 minutes",
-});
-
-const authLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000, 
-  max: 10, 
-  message: "Too many authentication requests from this IP, please try again after 15 minutes",
-});
-
-app.use(limiter);
-app.use("/api/auth", authLimiter, authRoutes);
+app.use("/api/auth", authRoutes);
 app.use("/api/leaderboard", leaderboardRoutes);
 app.use("/api/forum", forumRoutes);
 
